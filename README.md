@@ -43,9 +43,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./folder1/example3.txt
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./README.md
+./folder1/example3.txt
 ./folder1/folder3/example5.txt
 
+./README.md
 ./folder1/example2.txt
 ./folder1/folder2/example4.txt</code></pre>
 </details>
@@ -71,9 +73,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./folder1/example3.txt
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./README.md
+./folder1/example3.txt
 ./folder1/folder3/example5.txt
 
+./README.md
 ./folder1/example2.txt
 ./folder1/folder2/example4.txt</code></pre>
 </details>
@@ -99,9 +103,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./folder1/example3.txt
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./README.md
+./folder1/example3.txt
 ./folder1/folder3/example5.txt
 
+./README.md
 ./folder1/example2.txt
 ./folder1/folder2/example4.txt</code></pre>
 </details>
@@ -124,9 +130,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 <details class="wp-block-details"><summary>出力結果</summary>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./folder1/example3.txt
 ./folder1/folder3/example5.txt
+./README.md
 
 ./folder1/example2.txt
-./folder1/folder2/example4.txt</code></pre>
+./folder1/folder2/example4.txt
+./README.md</code></pre>
 </details>
 </div>
 </div>
@@ -189,9 +197,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./folder1/example3.txt
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./README.md
+./folder1/example3.txt
 ./folder1/folder3/example5.txt
 
+./README.md
 ./folder1/example2.txt
 ./folder1/folder2/example4.txt</code></pre>
 </details>
@@ -265,9 +275,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./folder1/example3.txt
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./README.md
+./folder1/example3.txt
 ./folder1/folder3/example5.txt
 
+./README.md
 ./folder1/example2.txt
 ./folder1/folder2/example4.txt</code></pre>
 </details>
@@ -367,9 +379,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./folder1/example3.txt
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./README.md
+./folder1/example3.txt
 ./folder1/folder3/example5.txt
 
+./README.md
 ./folder1/example2.txt
 ./folder1/folder2/example4.txt</code></pre>
 </details>
@@ -392,9 +406,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 <details class="wp-block-details"><summary>詳細</summary>
 <pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./folder1/example3.txt
 ./folder1/folder3/example5.txt
+./README.md
 
 ./folder1/example2.txt
-./folder1/folder2/example4.txt</code></pre>
+./folder1/folder2/example4.txt
+./README.md</code></pre>
 </details>
 </div>
 </div>
