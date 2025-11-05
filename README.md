@@ -424,7 +424,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <div class="wp-block-group">
-<p>find . -type f -exec grep -l "hello" {} +</p>
+<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>find . -type f -exec grep -l "hello" {} +</code></pre>
 
 
 
