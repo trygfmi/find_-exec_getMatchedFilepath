@@ -35,10 +35,7 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepath
-cd find_-exec_getMatchedFilepath
-find . -type f -exec grep -l "hello" {} +
-find . -type f -exec grep -l "world" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepathcd find_-exec_getMatchedFilepathfind . -type f -exec grep -l "hello" {} +find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
@@ -64,11 +61,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/find_-exec_getMatchedFilepath
-cd find_-exec_getMatchedFilepath
-find . -type f -exec grep -l "hello" {} +
-find . -type f -exec grep -l "world" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/find_-exec_getMatchedFilepathcd find_-exec_getMatchedFilepathfind . -type f -exec grep -l "hello" {} +find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
@@ -95,10 +88,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepath
-cd find_-exec_getMatchedFilepath
-find . -type f -exec grep -l "hello" {} +
-find . -type f -exec grep -l "world" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepathcd find_-exec_getMatchedFilepathfind . -type f -exec grep -l "hello" {} +find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
@@ -120,10 +110,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepath
-cd find_-exec_getMatchedFilepath
-find . -type f -exec grep -l "hello" {} +
-find . -type f -exec grep -l "world" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepathcd find_-exec_getMatchedFilepathfind . -type f -exec grep -l "hello" {} +find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
@@ -158,11 +145,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 <div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -172,11 +159,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 <div class="wp-block-group">
 <p>端末にcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
@@ -189,10 +176,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepath
-cd find_-exec_getMatchedFilepath
-find . -type f -exec grep -l "hello" {} +
-find . -type f -exec grep -l "world" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepathcd find_-exec_getMatchedFilepathfind . -type f -exec grep -l "hello" {} +find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
@@ -224,8 +208,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit --version</code></pre>
 
 
 
@@ -248,12 +231,11 @@ git --version</code></pre>
 
 <div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
-echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install gitecho 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
 
 
 
@@ -266,11 +248,7 @@ echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</c
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/find_-exec_getMatchedFilepath
-cd find_-exec_getMatchedFilepath
-find . -type f -exec grep -l "hello" {} +
-find . -type f -exec grep -l "world" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/find_-exec_getMatchedFilepathcd find_-exec_getMatchedFilepathfind . -type f -exec grep -l "hello" {} +find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
@@ -306,7 +284,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -314,7 +292,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -344,16 +322,16 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
 <h5 class="wp-block-heading">MSYS2 MINGW64</h5>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
 
 
 
@@ -371,10 +349,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepath
-cd find_-exec_getMatchedFilepath
-find . -type f -exec grep -l "hello" {} +
-find . -type f -exec grep -l "world" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepathcd find_-exec_getMatchedFilepathfind . -type f -exec grep -l "hello" {} +find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
@@ -396,10 +371,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepath
-cd find_-exec_getMatchedFilepath
-find . -type f -exec grep -l "hello" {} +
-find . -type f -exec grep -l "world" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/find_-exec_getMatchedFilepathcd find_-exec_getMatchedFilepathfind . -type f -exec grep -l "hello" {} +find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
@@ -424,7 +396,7 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>find . -type f -exec grep -l "hello" {} +</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>find . -type f -exec grep -l "hello" {} +</code></pre>
 
 
 
@@ -437,9 +409,8 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>find . -type f -exec grep -l "hello" {} \;</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>find . -type f -exec grep -l "hello" {} \;</code></pre>
 
 
 
 <p>でも実行できますが、1つのファイルパスに対して1つのプロセスで実行するため数が多いと処理が遅くなるようです</p>
-
