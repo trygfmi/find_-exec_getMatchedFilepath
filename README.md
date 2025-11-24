@@ -158,11 +158,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 <div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+</div>
 
 
 
@@ -172,11 +172,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 <div class="wp-block-group">
 <p>端末にcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+</div>
 
 
 
@@ -248,12 +248,12 @@ git --version</code></pre>
 
 <div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
 echo 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
+</div>
 
 
 
@@ -349,11 +349,11 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <h5 class="wp-block-heading">MSYS2 MINGW64</h5>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
+</div>
 
 
 
@@ -433,7 +433,6 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <p>.は現在のディレクトリ、-type fはファイルを対象、-execオプションの後にコマンドを指定、-lオプションでファイルパスだけを出力、検索文字列として"hello"を指定、findコマンドで出力された文字列が格納された記号{}、できるだけまとめて1回のプロセスで実行させる文字+、です</p>
-</div>
 
 
 
@@ -442,3 +441,4 @@ find . -type f -exec grep -l "world" {} +</code></pre>
 
 
 <p>でも実行できますが、1つのファイルパスに対して1つのプロセスで実行するため数が多いと処理が遅くなるようです</p>
+</div>
